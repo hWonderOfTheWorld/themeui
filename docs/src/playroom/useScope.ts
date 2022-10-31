@@ -1,5 +1,5 @@
-// import { useTheme } from '@ensdomains/thorin/components'
-// import { vars } from '@ensdomains/thorin/css'
+// import { useTheme } from '@epdomains/themey/components'
+// import { vars } from '@epdomains/themey/css'
 
 import { useTheme } from 'styled-components'
 import React from 'react'

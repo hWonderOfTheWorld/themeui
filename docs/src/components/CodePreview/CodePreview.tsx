@@ -6,7 +6,7 @@ import { LiveEditor, LiveError, LivePreview, LiveProvider } from 'react-live'
 import { mdx } from '@mdx-js/react'
 import { PrismTheme } from 'prism-react-renderer'
 
-import { Button, Colors, Components } from '@ensdomains/thorin'
+import { Button, Colors, Components } from '@epdomains/themey'
 
 import ComponentWrapper from '../../playroom/ComponentWrapper'
 import { Prism } from '../Prism'

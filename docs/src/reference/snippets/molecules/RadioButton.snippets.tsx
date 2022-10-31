@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Card, FieldSet, RadioButton } from '@ensdomains/thorin'
+import { Card, FieldSet, RadioButton } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

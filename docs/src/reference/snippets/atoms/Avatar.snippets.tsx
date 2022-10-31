@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Avatar } from '@ensdomains/thorin'
+import { Avatar } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

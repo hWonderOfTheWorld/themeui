@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Button, Tooltip } from '@ensdomains/thorin'
+import { Button, Tooltip } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

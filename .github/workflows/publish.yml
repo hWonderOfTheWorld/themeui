@@ -38,7 +38,7 @@ jobs:
 
       - name: Bump version to ${{ github.event.release.tag_name }}
         run: |
-          pnpm -F @ensdomains/thorin run ver ${{ github.event.release.tag_name }}
+          pnpm -F @epdomains/themey run ver ${{ github.event.release.tag_name }}
           git add .
           git commit -m "${{ github.event.release.tag_name }}"
 
@@ -47,7 +47,7 @@ jobs:
           NPM_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           pnpm config set //registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}
-          pnpm -F @ensdomains/thorin publish
+          pnpm -F @epdomains/themey publish
 
       - name: Push changes
         run: git push

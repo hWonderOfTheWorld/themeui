@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { FieldSet } from '@ensdomains/thorin'
+import { FieldSet } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

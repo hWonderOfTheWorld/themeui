@@ -2,7 +2,7 @@ import { MDXProviderProps } from '@mdx-js/react'
 import slugify from '@sindresorhus/slugify'
 import styled, { css } from 'styled-components'
 
-import { Heading, Typography, tokens } from '@ensdomains/thorin'
+import { Heading, Typography, tokens } from '@epdomains/themey'
 
 import { CodeBlock } from './CodeBlock'
 import { Link } from './Link'

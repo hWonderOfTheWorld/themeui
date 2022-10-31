@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Slider } from '@ensdomains/thorin'
+import { Slider } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

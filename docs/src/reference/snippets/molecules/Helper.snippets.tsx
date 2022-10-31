@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Helper } from '@ensdomains/thorin'
+import { Helper } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

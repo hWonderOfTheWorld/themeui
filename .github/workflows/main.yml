@@ -28,7 +28,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - name: Build
-        run: pnpm -F @ensdomains/thorin build
+        run: pnpm -F @epdomains/themey build
 
   lint:
     name: Lint
@@ -52,7 +52,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - name: build
-        run: pnpm -F @ensdomains/thorin build
+        run: pnpm -F @epdomains/themey build
 
       - name: Lint
         run: pnpm lint

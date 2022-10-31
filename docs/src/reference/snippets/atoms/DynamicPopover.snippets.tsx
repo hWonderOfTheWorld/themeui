@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Button, DynamicPopover } from '@ensdomains/thorin'
+import { Button, DynamicPopover } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

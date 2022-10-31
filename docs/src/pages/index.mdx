@@ -14,7 +14,7 @@ import { Header, Link } from '~/components'
 ## Install
 
 ```bash
-yarn add @ensdomains/thorin
+yarn add @epdomains/themey
 ```
 
 ## Set Up
@@ -26,7 +26,7 @@ In this example we are adding the **lightTheme**.
 ```tsx
 import React, { useState } from 'react'
 import { ThemeProvider } from 'styled-components'
-import { ThorinGlobalStyles, lightTheme } from '@ensdomains/thorin'
+import { ThorinGlobalStyles, lightTheme } from '@epdomains/themey'
 
 const App = () => {
   return (
@@ -45,7 +45,7 @@ To use the dark theme, import `darkTheme` and pass it to the `ThemeProvider`.
 ```tsx
 import React, { useState } from 'react'
 import { ThemeProvider } from 'styled-components'
-import { ThorinGlobalStyles, darkTheme } from '@ensdomains/thorin'
+import { ThorinGlobalStyles, darkTheme } from '@epdomains/themey'
 
 const App = () => {
   return (
@@ -62,7 +62,7 @@ const App = () => {
 To customise the theme, you can change properties on either the `lightTheme` or `darkTheme` objects, or create an entirely new one.
 
 ```tsx
-import { ThemeProvider, lightTheme } from '@ensdomains/thorin'
+import { ThemeProvider, lightTheme } from '@epdomains/themey'
 
 const theme = {
   ...lightTheme,
@@ -80,7 +80,7 @@ const App = () => {
 ## Use Components
 
 ```tsx
-import { Button, LockClosedSVG } from '@ensdomains/thorin'
+import { Button, LockClosedSVG } from '@epdomains/themey'
 ```
 
 ```tsx live=true expand=true

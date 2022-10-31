@@ -2,7 +2,7 @@ import * as React from 'react'
 import styled, { css, useTheme } from 'styled-components'
 import { PropItem } from 'react-docgen-typescript'
 
-import { Button, Typography, VisuallyHidden, mq } from '@ensdomains/thorin'
+import { Button, Typography, VisuallyHidden, mq } from '@epdomains/themey'
 
 import property from 'lodash/property'
 

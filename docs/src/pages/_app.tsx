@@ -5,7 +5,7 @@ import { MDXProvider } from '@mdx-js/react'
 import Script from 'next/script'
 import { ThemeProvider } from 'styled-components'
 
-import { ThorinGlobalStyles, lightTheme } from '@ensdomains/thorin'
+import { ThorinGlobalStyles, lightTheme } from '@epdomains/themey'
 
 import { MDX } from '~/components'
 import { getLayout as getDocsLayout } from '~/layouts/docs'

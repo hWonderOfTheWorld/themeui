@@ -1,4 +1,4 @@
-# ENS Design System &middot; [![NPM version](https://img.shields.io/npm/v/thorin.svg?style=for-the-badge&labelColor=161c22)](https://www.npmjs.com/package/@ensdomains/thorin) [![License](https://img.shields.io/npm/l/thorin.svg?style=for-the-badge&labelColor=161c22)](/LICENSE)
+# ENS Design System &middot; [![NPM version](https://img.shields.io/npm/v/thorin.svg?style=for-the-badge&labelColor=161c22)](https://www.npmjs.com/package/@epdomains/themey) [![License](https://img.shields.io/npm/l/thorin.svg?style=for-the-badge&labelColor=161c22)](/LICENSE)
 
 A design system for ENS built with React and styled-components.
 
@@ -9,14 +9,14 @@ A design system for ENS built with React and styled-components.
 To install this package using npm:
 
 ```bash
-npm install @ensdomains/thorin
+npm install @epdomains/themey
 
 ```
 
 To install this package using yarn:
 
 ```bash
-yarn add @ensdomains/thorin
+yarn add @epdomains/themey
 ```
 
 Checkout the project's [playroom](https://thorin.ens.domains/playroom) to preview the components in a live online environment.
@@ -28,7 +28,7 @@ In your App component, wrap the root of your app in a [`ThemeProvider`](https://
 ```tsx
 import React, { useState } from 'react'
 import { ThemeProvider } from 'styled-components'
-import { DefaultTheme, ThorinGlobalStyles } from '@ensdomains/thorin'
+import { DefaultTheme, ThorinGlobalStyles } from '@epdomains/themey'
 
 const App = () => {
   const [theme, setTheme] = useState<DefaultTheme>({ mode: 'light' })
@@ -48,7 +48,7 @@ A list of components with examples are available on the [project website](https:
 A simple example to get you started:
 
 ```tsx
-import { Input, SearchSVG } from '@ensdomains/thorin'
+import { Input, SearchSVG } from '@epdomains/themey'
 
 const SearchInput = () => {
   return (
@@ -73,7 +73,7 @@ The documentation is divided into two sections.
 ## Development
 
 ```bash
-gh clone repo @ensdomains/thorin
+gh clone repo @epdomains/themey
 pnpm install
 pnpm dev
 ```
@@ -89,7 +89,7 @@ Before development, it is recommended that you read the following:
 
 ## Contributing
 
-Contribute to this project by sending a pull request to [this repository](https://github.com/ensdomains/thorin).
+Contribute to this project by sending a pull request to [this repository](https://github.com/epdomains/themey).
 
 ## Sources
 

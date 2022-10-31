@@ -1,8 +1,8 @@
 import * as React from 'react'
 import styled, { css } from 'styled-components'
 
-import { Input, SearchSVG, Typography, mq } from '@ensdomains/thorin'
-import * as Components from '@ensdomains/thorin'
+import { Input, SearchSVG, Typography, mq } from '@epdomains/themey'
+import * as Components from '@epdomains/themey'
 
 import { Link } from '~/components'
 

@@ -8,7 +8,7 @@ import dynamic from 'next/dynamic'
 import vsLight from 'prism-react-renderer/themes/vsLight'
 import styled, { css, useTheme } from 'styled-components'
 
-import { Colors } from '@ensdomains/thorin'
+import { Colors } from '@epdomains/themey'
 
 import { useIsMounted } from '~/utils/isMounted'
 import { PlayroomStateProvider } from '~/playroom/PlayroomState'

@@ -3,7 +3,7 @@ import { GetLayout, NextLayout } from 'next'
 import Head from 'next/head'
 import styled, { css } from 'styled-components'
 
-import { mq } from '@ensdomains/thorin'
+import { mq } from '@epdomains/themey'
 
 import {
   Header,

@@ -10,7 +10,7 @@ import { serialize } from 'next-mdx-remote/serialize'
 import matter from 'gray-matter'
 import { PropItem } from 'react-docgen-typescript'
 
-import { Typography, tokens } from '@ensdomains/thorin'
+import { Typography, tokens } from '@epdomains/themey'
 
 import { glob } from 'glob'
 

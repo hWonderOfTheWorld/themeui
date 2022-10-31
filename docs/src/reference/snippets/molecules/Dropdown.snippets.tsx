@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Dropdown } from '@ensdomains/thorin'
+import { Dropdown } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

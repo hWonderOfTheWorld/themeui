@@ -9,7 +9,7 @@ import {
   Space,
   Typography,
   mq,
-} from '@ensdomains/thorin'
+} from '@epdomains/themey'
 
 import { createGitHubLink } from '~/utils/github'
 import { createPlayroomLink } from '~/utils/playroom'

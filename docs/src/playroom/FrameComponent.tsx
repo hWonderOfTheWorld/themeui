@@ -2,7 +2,7 @@ import * as React from 'react'
 
 import { ThemeProvider, createGlobalStyle, css } from 'styled-components'
 
-import { ThorinGlobalStyles, darkTheme, lightTheme } from '@ensdomains/thorin'
+import { ThorinGlobalStyles, darkTheme, lightTheme } from '@epdomains/themey'
 
 import { PlayroomStateProvider } from './PlayroomState'
 

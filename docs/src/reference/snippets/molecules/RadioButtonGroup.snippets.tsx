@@ -5,7 +5,7 @@ import {
   FieldSet,
   RadioButton,
   RadioButtonGroup,
-} from '@ensdomains/thorin'
+} from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

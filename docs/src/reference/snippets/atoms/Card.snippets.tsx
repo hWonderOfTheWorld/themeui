@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Card } from '@ensdomains/thorin'
+import { Card } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

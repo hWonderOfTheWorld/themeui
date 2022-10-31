@@ -121,7 +121,7 @@ const COMPONENT_GROUPS = {
           ---
 
           \`\`\`tsx
-          import { ${componentName} } from '@ensdomains/thorin'
+          import { ${componentName} } from '@epdomains/themey'
           \`\`\`
 
           \`\`\`tsx live=true expand=true
@@ -151,7 +151,7 @@ const COMPONENT_GROUPS = {
       snippetsFilePath,
       dedent`
           import * as React from 'react'
-          import { ${componentName} } from '@ensdomains/thorin'
+          import { ${componentName} } from '@epdomains/themey'
 
           import { Snippet } from '../../../types'
 

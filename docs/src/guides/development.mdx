@@ -8,7 +8,7 @@ description: Guidelines for working on thorin
 Clone repository, install dependencies, and run the dev script to start the docs and playroom sites.
 
 ```bash
-gh repo clone @ensdomains/thorin
+gh repo clone @epdomains/themey
 yarn
 yarn dev
 ```
@@ -111,10 +111,10 @@ export const snippets: Snippet[] = [
 
 ### Docs
 
-When you need to import a component within the _docs/_ folder, **link to components from @ensdomains/thorin**.
+When you need to import a component within the _docs/_ folder, **link to components from @epdomains/themey**.
 
 ```
-import { Field } from '@ensdomains/thorin'
+import { Field } from '@epdomains/themey'
 ```
 
 For updates to components to appear in files in the _docs/_ folder, you will first need to **build the components** using:
@@ -155,7 +155,7 @@ yarn build
 
 ## Publishing New Versions
 
-[Create a new release](https://github.com/ensdomains/thorin/releases/new) on GitHub with a tag that follows [semantic versioning](https://semver.org/). Publishing a release triggers a workflow for building, testing, and pushing to [npm](https://www.npmjs.com/package/@ensdomains/thorin).
+[Create a new release](https://github.com/epdomains/themey/releases/new) on GitHub with a tag that follows [semantic versioning](https://semver.org/). Publishing a release triggers a workflow for building, testing, and pushing to [npm](https://www.npmjs.com/package/@epdomains/themey).
 
 ## Common Issues
 

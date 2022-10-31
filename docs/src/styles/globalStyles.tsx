@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 
-import { tokens } from '@ensdomains/thorin'
+import { tokens } from '@epdomains/themey'
 
 const GlobalStyle = createGlobalStyle`
   body {

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Heading } from '@ensdomains/thorin'
+import { Heading } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { default as copy } from 'copy-to-clipboard'
 
-import { Button, CheckSVG, DuplicateSVG } from '@ensdomains/thorin'
+import { Button, CheckSVG, DuplicateSVG } from '@epdomains/themey'
 
 type Props = {
   content: string

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { CountdownCircle } from '@ensdomains/thorin'
+import { CountdownCircle } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

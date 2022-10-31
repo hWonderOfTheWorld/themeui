@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Checkbox } from '@ensdomains/thorin'
+import { Checkbox } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

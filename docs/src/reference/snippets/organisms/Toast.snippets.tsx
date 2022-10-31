@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Toast } from '@ensdomains/thorin'
+import { Toast } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Skeleton } from '@ensdomains/thorin'
+import { Skeleton } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 

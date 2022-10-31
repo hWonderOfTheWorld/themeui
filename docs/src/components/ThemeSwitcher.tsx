@@ -1,8 +1,8 @@
 // import * as React from 'react'
 // import styled, { useTheme } from 'styled-components'
 
-// // import { Accent } from '@ensdomains/thorin/tokens'
-// import { Button, Skeleton, SkeletonGroup } from '@ensdomains/thorin'
+// // import { Accent } from '@epdomains/themey/tokens'
+// import { Button, Skeleton, SkeletonGroup } from '@epdomains/themey'
 
 // // import { setThemeAccent, setThemeMode } from '~/utils/cookies'
 // import { useIsMounted } from '~/utils/isMounted'

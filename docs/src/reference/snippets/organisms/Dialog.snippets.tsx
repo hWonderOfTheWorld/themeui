@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { Dialog, Typography } from '@ensdomains/thorin'
+import { Dialog, Typography } from '@epdomains/themey'
 
 import { Snippet } from '../../../types'
 
